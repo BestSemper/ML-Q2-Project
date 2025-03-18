@@ -1,0 +1,3 @@
+# ML-Q2-Project
+
+The traditional Naive Bayes classifier assumes independence between features, which is often unrealistic. Weighting each attribute differently depending on its dependencies could solve this problem while maintaining simplicity. Thus, we are proposing a method for determining how to weight each attribute, which would work well with dependent features. We will compare its performance with that of the standard Naive Bayes and Decision Tree models with three different datasets consisting of different extents of feature dependencies.
