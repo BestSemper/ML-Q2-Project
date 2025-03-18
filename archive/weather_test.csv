@@ -1,0 +1,4 @@
+outlook,temperature,humidity,windy,class
+rainy,mild,high,True,no
+overcast,cool,normal,True,yes
+overcast,hot,normal,False,yes
